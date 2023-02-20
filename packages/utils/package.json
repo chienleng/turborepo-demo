@@ -1,0 +1,13 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "shared utilities",
+  "main": "index.js",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
